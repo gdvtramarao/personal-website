@@ -48,12 +48,4 @@ You can easily deploy this portfolio using **GitHub Pages**:
 
 ---
 
-## 📬 Contact Me  
-
-- 📧 Email: [gdvtramarao@gmail.com](mailto:gdvtramarao@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/gdvtramarao](https://linkedin.com/in/gdvtramarao)  
-- 📍 Location: Bengaluru, India  
-
----
-
 ⭐ If you like this project, don’t forget to **star this repo**!  
