@@ -1,7 +1,5 @@
 # 🌟 Ramarao's Portfolio Website  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/gdvtramarao/portfolio-ramarao?color=blue&style=flat-square)  
-![GitHub last commit](https://img.shields.io/github/last-commit/gdvtramarao/portfolio-ramarao?color=green&style=flat-square)  
+  
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)  
 
 ---
