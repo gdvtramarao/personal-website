@@ -1,6 +1,14 @@
 # 🌟 Ramarao's Portfolio Website  
-  
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)  
+
+This repository hosts my personal portfolio website, showcasing my projects, certificates, leadership activities, and achievements.  
+The site is built using **HTML, CSS, and JavaScript**, featuring a modern, interactive design with glass-card components for a clean and professional look.
+
+
+## 🚀 Live Demo
+
+ **Live Site:** [gdvtramarao.netlify.app](https://gdvtramarao.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc3aef57-9dd6-4c26-9130-724dc75ea30c/deploy-status)](https://app.netlify.com/projects/gdvtramarao/deploys)
 
 ---
 
