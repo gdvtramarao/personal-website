@@ -27,19 +27,6 @@ Built with **HTML, CSS, and JavaScript**, the website has a **minimal light them
 
 ---
 
-## 🚀 Deployment  
-
-You can easily deploy this portfolio using **GitHub Pages**:  
-
-1. Push the project to your repo 📤  
-2. Go to **Settings > Pages** ⚙️  
-3. Select branch **main** → `/root`  
-4. Your portfolio will be live at:  
-
-👉 `https://gdvtramarao.github.io` 🎉  
-
----
-
 ## 🛠️ Tech Stack  
 
 - 🌐 **HTML5** – structure  
